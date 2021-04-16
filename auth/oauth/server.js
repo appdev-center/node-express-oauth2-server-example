@@ -1,4 +1,4 @@
-const OAuthServer = require('express-oauth-server')
+const OAuthServer = require('adc-node-express-oauth2-server')
 const model = require('./model')
 
 module.exports = new OAuthServer({
