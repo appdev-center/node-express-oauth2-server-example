@@ -15,6 +15,10 @@
     "url" : "http://www.appdev.center/"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:appdev-center/node-express-oauth2-server-example.git"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
