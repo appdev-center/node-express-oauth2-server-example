@@ -54,14 +54,14 @@
 <a id='links'></a>
 # Important Links
 Checkout
-[Oauth-server-github](https://github.com/oauthjs/node-oauth2-server)
+[Oauth-server-github](https://github.com/appdev-center/node-oauth2-server)
 if you are running into any weird errors. Tutorials are seriously lacking
 on this implementation of the Oauth2.0 protocol as most people use
 an external service for it. Luckily, the errors are pretty specific,
 so you can go through their code to figure out what is happening.
 
 Also, if you want to see how the middleware is generated, checkout
-[this](https://github.com/oauthjs/express-oauth-server)
+[this](https://github.com/appdev-center/node-express-oauth2-server)
 to see the middleware stuff. Their examples are out of date, so
 ignore them.
 
